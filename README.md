@@ -1,6 +1,6 @@
-📊 ApexMart Sales Performance Dashboard
+ApexMart Sales Performance Dashboard
 ---
-📌 Project Overview
+Project Overview
 
 The **ApexMart Sales Performance Dashboard** is an end-to-end data analytics project built using Power BI.
 The dashboard analyzes retail sales data (2020–2021) to deliver clear insights into revenue performance, profitability, category trends, and geographic distribution.
@@ -8,7 +8,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
- 🎯 Business Objective
+Business Objective
 
 * Monitor overall sales and profit performance
 * Identify top and underperforming product categories
@@ -18,7 +18,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
-🧠 Data Modeling Approach
+Data Modeling Approach
 
 * Implemented a **Star Schema** data model
 * Created separate Fact and Dimension tables
@@ -27,7 +27,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
-📊 Key KPIs Tracked
+Key KPIs Tracked
 
 * Total Sales
 * Total Profit
@@ -39,7 +39,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
-📈 Dashboard Highlights
+Dashboard Highlights
 
 * Sales & Profit Trend Analysis
 * Category-wise Sales & Profit Comparison
@@ -49,7 +49,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
-💡 Key Insights
+Key Insights
 
 * Strong sales growth observed from 2020 to 2021
 * Grocery category drives the highest revenue
@@ -59,7 +59,7 @@ Designed for executive-level reporting and data-driven decision-making.
 
 ---
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 * Power BI Desktop
 * DAX (Data Analysis Expressions)
